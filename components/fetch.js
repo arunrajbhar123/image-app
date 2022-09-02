@@ -14,8 +14,12 @@ let append = (data, container) => {
     data.forEach(({ urls: { regular } }) => {
         let box = document.createElement('div');
         let img = document.createElement('img');
+       
+        container.href=regular;
+    
         img.src = regular;
-        box.append(img);
+        box.append(img)
+       
         container.append(box)
     })
 }
