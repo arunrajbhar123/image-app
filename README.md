@@ -1,4 +1,4 @@
-# react-2
+# Image App
 
 
-![](https://github.com/arunrajbhar123/image-app/blob/master/img.gif)
+
