@@ -1,4 +1,4 @@
 # react-2
 
 
-<img src="img.gif">
+![](https://github.com/arunrajbhar123/image-app/blob/master/img.gif)
