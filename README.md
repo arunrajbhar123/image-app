@@ -1,2 +1,6 @@
-# react-2
+# Image App
+
+
+
+<img src="./img.png">
 
