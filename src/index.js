@@ -12,7 +12,7 @@ function main(e) {
         fetchReq(API, query).then((data) => {
             var container = document.querySelector('.container');
             container.innerHTML = null;
-            append(data.results, container)
+            append(data.results, container);
         });
     }
 }

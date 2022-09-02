@@ -1,6 +1,6 @@
 function navbar() {
     return `
-  <div class="logo">Rendering</div>
+  <div class="logo">Image</div>
   <ul>
 
       <li>
